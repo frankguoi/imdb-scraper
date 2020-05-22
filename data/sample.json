@@ -1,0 +1,498 @@
+{
+    "mid": "tt7131622",
+    "title": "Once Upon a Time... in Hollywood",
+    "release_date": "2019-07-24",
+    "summary": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+    "directors": [
+        {
+            "pid": "nm0000233",
+            "name": "Quentin Tarantino"
+        }
+    ],
+    "writers": [
+        {
+            "pid": "nm0000233",
+            "name": "Quentin Tarantino",
+            "credit": "written by"
+        }
+    ],
+    "actors": [
+        {
+            "pid": "nm0000138",
+            "name": "Leonardo DiCaprio",
+            "character": "Rick Dalton"
+        },
+        {
+            "pid": "nm0000093",
+            "name": "Brad Pitt",
+            "character": "Cliff Booth"
+        },
+        {
+            "pid": "nm3053338",
+            "name": "Margot Robbie",
+            "character": "Sharon Tate"
+        },
+        {
+            "pid": "nm0386472",
+            "name": "Emile Hirsch",
+            "character": "Jay Sebring"
+        },
+        {
+            "pid": "nm4960279",
+            "name": "Margaret Qualley",
+            "character": "Pussycat"
+        },
+        {
+            "pid": "nm0648249",
+            "name": "Timothy Olyphant",
+            "character": "James Stacy"
+        },
+        {
+            "pid": "nm6253548",
+            "name": "Julia Butters",
+            "character": "Trudi Fraser"
+        },
+        {
+            "pid": "nm2581521",
+            "name": "Austin Butler",
+            "character": "Tex Watson"
+        },
+        {
+            "pid": "nm0266824",
+            "name": "Dakota Fanning",
+            "character": "Squeaky Fromme"
+        },
+        {
+            "pid": "nm0001136",
+            "name": "Bruce Dern",
+            "character": "George Spahn"
+        },
+        {
+            "pid": "nm2538735",
+            "name": "Mike Moh",
+            "character": "Bruce Lee"
+        },
+        {
+            "pid": "nm0000580",
+            "name": "Luke Perry",
+            "character": "Wayne Maunder"
+        },
+        {
+            "pid": "nm0507073",
+            "name": "Damian Lewis",
+            "character": "Steve McQueen"
+        },
+        {
+            "pid": "nm0000199",
+            "name": "Al Pacino",
+            "character": "Marvin Schwarz"
+        },
+        {
+            "pid": "nm0358749",
+            "name": "Nicholas Hammond",
+            "character": "Sam Wanamaker"
+        },
+        {
+            "pid": "nm6231136",
+            "name": "Samantha Robinson",
+            "character": "Abigail Folger"
+        },
+        {
+            "pid": "nm4027445",
+            "name": "Rafal Zawierucha",
+            "character": "Roman Polanski"
+        },
+        {
+            "pid": "nm4448022",
+            "name": "Lorenza Izzo",
+            "character": "Francesca Capucci"
+        },
+        {
+            "pid": "nm2687923",
+            "name": "Costa Ronin",
+            "character": "Voytek Frykowski"
+        },
+        {
+            "pid": "nm0380632",
+            "name": "Damon Herriman",
+            "character": "Charlie"
+        },
+        {
+            "pid": "nm2501633",
+            "name": "Lena Dunham",
+            "character": "'Gypsy'"
+        },
+        {
+            "pid": "nm2295293",
+            "name": "Madisen Beaty",
+            "character": "'Katie'"
+        },
+        {
+            "pid": "nm5700898",
+            "name": "Mikey Madison",
+            "character": "'Sadie'"
+        },
+        {
+            "pid": "nm2566469",
+            "name": "James Landry H\u00e9bert",
+            "character": "'Clem'"
+        },
+        {
+            "pid": "nm1638321",
+            "name": "Maya Hawke",
+            "character": "'Flowerchild'"
+        },
+        {
+            "pid": "nm6442992",
+            "name": "Victoria Pedretti",
+            "character": "'Lulu'"
+        },
+        {
+            "pid": "nm2858875",
+            "name": "Sydney Sweeney",
+            "character": "'Snake'"
+        },
+        {
+            "pid": "nm0808410",
+            "name": "Harley Quinn Smith",
+            "character": "'Froggie'"
+        },
+        {
+            "pid": "nm7516710",
+            "name": "Dallas Jay Hunter",
+            "character": "'Delilah'"
+        },
+        {
+            "pid": "nm1351898",
+            "name": "Kansas Bowling",
+            "character": "'Blue'"
+        },
+        {
+            "pid": "nm6718920",
+            "name": "Parker Love Bowling",
+            "character": "'Tadpole'"
+        },
+        {
+            "pid": "nm2242622",
+            "name": "Cassidy Hice",
+            "character": "'Sundance' (as Cassidy Vick Hice)"
+        },
+        {
+            "pid": "nm1944102",
+            "name": "Ruby Rose Skotchdopole",
+            "character": "'Butterfly'"
+        },
+        {
+            "pid": "nm0364583",
+            "name": "Danielle Harris",
+            "character": "'Angel'"
+        },
+        {
+            "pid": "nm2589462",
+            "name": "Josephine Valentina Clark",
+            "character": "'Happy Cappy' (as Josephine Clark)"
+        },
+        {
+            "pid": "nm1058940",
+            "name": "Scoot McNairy",
+            "character": "Business Bob Gilbert"
+        },
+        {
+            "pid": "nm0004286",
+            "name": "Clifton Collins Jr.",
+            "character": "Ernesto the Mexican Vaquero"
+        },
+        {
+            "pid": "nm0735424",
+            "name": "Marco Rodr\u00edguez",
+            "character": "Bartender on Lancer"
+        },
+        {
+            "pid": "nm0290632",
+            "name": "Ram\u00f3n Franco",
+            "character": "Movie Theater Manager"
+        },
+        {
+            "pid": "nm5946364",
+            "name": "Raul Cardona",
+            "character": "Bad Guy Delgado"
+        },
+        {
+            "pid": "nm3009277",
+            "name": "Courtney Hoffman",
+            "character": "Rebekka"
+        },
+        {
+            "pid": "nm2439111",
+            "name": "Dreama Walker",
+            "character": "Connie Stevens"
+        },
+        {
+            "pid": "nm6637304",
+            "name": "Rachel Redleaf",
+            "character": "Mama Cass"
+        },
+        {
+            "pid": "nm4590703",
+            "name": "Rebecca Rittenhouse",
+            "character": "Michelle Phillips"
+        },
+        {
+            "pid": "nm0932454",
+            "name": "Rumer Willis",
+            "character": "Joanna Pettet"
+        },
+        {
+            "pid": "nm0308208",
+            "name": "Spencer Garrett",
+            "character": "Allen Kincade"
+        },
+        {
+            "pid": "nm0347656",
+            "name": "Clu Gulager",
+            "character": "Book Store Man"
+        },
+        {
+            "pid": "nm0184392",
+            "name": "Martin Kove",
+            "character": "Bounty Law Sheriff"
+        },
+        {
+            "pid": "nm0001261",
+            "name": "Rebecca Gayheart",
+            "character": "Billie Booth"
+        },
+        {
+            "pid": "nm0000621",
+            "name": "Kurt Russell",
+            "character": "Randy Miller"
+        },
+        {
+            "pid": "nm1057928",
+            "name": "Zo\u00eb Bell",
+            "character": "Janet Miller"
+        },
+        {
+            "pid": "nm0000514",
+            "name": "Michael Madsen",
+            "character": "Sheriff Hackett on Bounty Law"
+        },
+        {
+            "pid": "nm0000619",
+            "name": "Tim Roth",
+            "character": "Jay Sebrings Butler (scenes deleted)"
+        },
+        {
+            "pid": "nm1549503",
+            "name": "Perla Haney-Jardine",
+            "character": "Hippie Selling Acid Cigarettes"
+        },
+        {
+            "pid": "nm0001664",
+            "name": "James Remar",
+            "character": "Ugly Owl Hoot on Bounty Law"
+        },
+        {
+            "pid": "nm0821400",
+            "name": "Monica Staggs",
+            "character": "Connie"
+        },
+        {
+            "pid": "nm0823149",
+            "name": "Craig Stark",
+            "character": "Land Pirate Craig"
+        },
+        {
+            "pid": "nm0420201",
+            "name": "Keith Jefferson",
+            "character": "Land Pirate Keith"
+        },
+        {
+            "pid": "nm2374829",
+            "name": "Omar Doom",
+            "character": "Donnie"
+        },
+        {
+            "pid": "nm2547958",
+            "name": "Kate Berlant",
+            "character": "Bruin Box Office Girl"
+        },
+        {
+            "pid": "nm3338255",
+            "name": "Victoria Truscott",
+            "character": "Musso & Frank Hostess (Gina)"
+        },
+        {
+            "pid": "nm9648853",
+            "name": "Allison Yaple",
+            "character": "Lancer Script Girl"
+        },
+        {
+            "pid": "nm1615332",
+            "name": "Bruce Del Castillo",
+            "character": "Back Lot Crew Member"
+        },
+        {
+            "pid": "nm0882853",
+            "name": "Brenda Vaccaro",
+            "character": "Mary Alice Schwarz"
+        },
+        {
+            "pid": "nm0854702",
+            "name": "Lew Temple",
+            "character": "Land Pirate Lew"
+        },
+        {
+            "pid": "nm1825010",
+            "name": "Daniella Pick",
+            "character": "Daphna Ben-Cobo"
+        },
+        {
+            "pid": "nm0824741",
+            "name": "David Steen",
+            "character": "Straight Satan David"
+        },
+        {
+            "pid": "nm0913092",
+            "name": "Mark Warrack",
+            "character": "Curt"
+        },
+        {
+            "pid": "nm6890443",
+            "name": "Gabriela Flores",
+            "character": "Maralu the Fiddle Player"
+        },
+        {
+            "pid": "nm0861253",
+            "name": "Heba Thorisdottir",
+            "character": "Make-Up Artist Sonya"
+        },
+        {
+            "pid": "nm3250790",
+            "name": "Breanna Wing",
+            "character": "Young Girl Hippy Hitchhiker"
+        },
+        {
+            "pid": "nm3206625",
+            "name": "Kenneth Sonny Donato",
+            "character": "Musso & Frank Bartender (as Kenneth 'Sonny' Donato)"
+        },
+        {
+            "pid": "nm4376279",
+            "name": "Sergio Gonzalez",
+            "character": "Musso & Frank Waiter"
+        },
+        {
+            "pid": "nm0642110",
+            "name": "Casey O'Neill",
+            "character": "Nazi Soldier / McCluskey Burn Nazi #1"
+        },
+        {
+            "pid": "nm5227612",
+            "name": "Michael Graham",
+            "character": "Policeman (as Michael Alan Graham)"
+        },
+        {
+            "pid": "nm1484342",
+            "name": "Emile Williams",
+            "character": "Paramedic"
+        },
+        {
+            "pid": "nm0488095",
+            "name": "Vincent Laresca",
+            "character": "Land Pirate Vincent"
+        },
+        {
+            "pid": "nm4518946",
+            "name": "JLouis Mills",
+            "character": "Land Pirate J"
+        },
+        {
+            "pid": "nm1381517",
+            "name": "Gilbert Saldivar",
+            "character": "Land Pirate Gil"
+        },
+        {
+            "pid": "nm0173997",
+            "name": "Maurice Compte",
+            "character": "Land Pirate Maurice"
+        },
+        {
+            "pid": "nm0673472",
+            "name": "Eddie Perez",
+            "character": "Land Pirate Eddie"
+        },
+        {
+            "pid": "nm0564733",
+            "name": "Hugh McCallum",
+            "character": "Lancer Camera Operator Hugh"
+        },
+        {
+            "pid": "nm8446285",
+            "name": "Zander Grable",
+            "character": "Hermann the Nazi Youth"
+        },
+        {
+            "pid": "nm0716628",
+            "name": "Ed Regine",
+            "character": "Cicada Maitre'd (as Edward Regine)"
+        },
+        {
+            "pid": "nm8924733",
+            "name": "Michael Bissett",
+            "character": "Officer Mike"
+        },
+        {
+            "pid": "nm10873379",
+            "name": "Lenny Langley Jr.",
+            "character": "Dashihi Donnell"
+        },
+        {
+            "pid": "nm3186756",
+            "name": "Gillian Berrow",
+            "character": "Gillian"
+        },
+        {
+            "pid": "nm1797652",
+            "name": "Chad Ridgely",
+            "character": "Cop #1"
+        },
+        {
+            "pid": "nm0199594",
+            "name": "Chic Daniel",
+            "character": "Cop #2"
+        },
+        {
+            "pid": "nm0123553",
+            "name": "Corey Burton",
+            "character": "Bounty Law Promo Announcer (voice)"
+        },
+        {
+            "pid": "nm2920803",
+            "name": "Michaela Sprague",
+            "character": "Dancer"
+        },
+        {
+            "pid": "nm3931416",
+            "name": "Ryan Ramirez",
+            "character": "Dancer"
+        },
+        {
+            "pid": "nm3470973",
+            "name": "Kayla Radomski",
+            "character": "Dancer"
+        },
+        {
+            "pid": "nm6073018",
+            "name": "Kerry Westcott",
+            "character": "Dancer"
+        }
+    ],
+    "genres": [
+        "Comedy",
+        "Drama"
+    ],
+    "runtime": 161,
+    "rating": 7.7,
+    "num_votes": 461280
+}

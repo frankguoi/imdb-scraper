@@ -1,0 +1,71 @@
+CREATE DATABASE mdb;
+
+CREATE TABLE mdb.people (
+	pid VARCHAR(16) NOT NULL,
+	name VARCHAR(128),
+	PRIMARY KEY (pid)
+);
+
+CREATE TABLE mdb.genres (
+	gid TINYINT NOT NULL,
+	name VARCHAR(128),
+	PRIMARY KEY (gid)
+);
+
+CREATE TABLE mdb.jobs (
+	jid TINYINT NOT NULL,
+	name VARCHAR(128),
+	PRIMARY KEY (jid)
+);
+
+CREATE TABLE mdb.movies (
+	mid VARCHAR(16) NOT NULL,
+	title VARCHAR(128),
+	release_date DATE,
+	summary VARCHAR(512),
+	runtime INT,
+	rating FLOAT(3,1),
+	num_votes INT,
+	PRIMARY KEY (mid)
+);
+
+CREATE TABLE mdb.movie_genres (
+	mid VARCHAR(16) NOT NULL,
+	gid TINYINT NOT NULL,
+
+	PRIMARY KEY(mid, gid),
+
+	FOREIGN KEY (mid)
+		REFERENCES movies (mid)
+		ON UPDATE RESTRICT ON DELETE CASCADE,
+
+	FOREIGN KEY (gid)
+		REFERENCES genres (gid)
+		ON UPDATE RESTRICT ON DELETE CASCADE
+);
+
+CREATE TABLE mdb.movie_credits (
+	mid VARCHAR(16) NOT NULL,
+	pid VARCHAR(16) NOT NULL,
+	jid TINYINT NOT NULL,
+	credit VARCHAR(128),
+	role VARCHAR(512),
+
+	PRIMARY KEY(mid, pid, jid),
+
+	FOREIGN KEY (mid)
+		REFERENCES movies (mid)
+		ON UPDATE RESTRICT ON DELETE CASCADE,
+
+	FOREIGN KEY (pid)
+		REFERENCES people (pid)
+		ON UPDATE RESTRICT ON DELETE CASCADE,
+
+	FOREIGN KEY (jid)
+		REFERENCES jobs (jid)
+		ON UPDATE RESTRICT ON DELETE CASCADE
+);
+
+ALTER TABLE mdb.people ADD FULLTEXT(name);
+ALTER TABLE mdb.movies ADD FULLTEXT(title);
+ALTER TABLE mdb.movies ADD FULLTEXT(summary);
