@@ -147,7 +147,7 @@ for top_url in top_urls:
                 'writers': writers, 'actors': actors, 'genres': genres, 'runtime': runtime, 'rating': rating, 'num_votes': num_votes}
         json_object = json.dumps(movie_data, indent=4)
         # Writing json into a file
-        with open(mid + ".json", "w") as f:
+        with open(mid + '.json', 'w') as f:
             f.write(json_object)
         """
 print('Done !')

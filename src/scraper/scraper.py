@@ -10,7 +10,7 @@ import json
 import re
 import csv
 
-url = "https://www.imdb.com/title/tt0270053/"
+url = "https://www.imdb.com/title/tt7131622/"
 page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -116,7 +116,7 @@ for actor in actors:
     movie_credits_rows.append([mid, actor['pid'], 3, None, actor['character']])
 
 # Writing csv files
-with open('movies.csv', 'w') as f:
+with open('scapingmovies.csv', 'w') as f:
     writer = csv.writer(f)
     writer.writerows(movies_rows)
 with open('movie_genres.csv', 'w') as f:
